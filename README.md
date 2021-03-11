@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/GergelyKomlosi/Space%20Game%20-%20web%20-%20Release/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release-pipeline)](https://dev.azure.com/GergelyKomlosi/Space%20Game%20-%20web%20-%20Release/_build/latest?definitionId=9&branchName=release-pipeline)
 
 ## Contributing
 
